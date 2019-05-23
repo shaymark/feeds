@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Feeds</string>
+    <string name="filter_query_hint">Filter by title</string>
+    <string name="buffer_video_loading_message">Buffering video...</string>
+    <string name="empty_list_text">NO Results</string>
+</resources>
